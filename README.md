@@ -11,3 +11,8 @@ Identité visuelle d'Annecy Création Web (création de sites, logiciels sur mes
 - **C — Lignes de lac** : sous les sommets, la surface du lac est faite de lignes de code indentées.
 
 Pour l'instant, les SVG sont en noir. Le texte des lockups est provisoire (police Inter).
+
+## Choix final
+
+- Logo : **B — Curseur**. Favicon / icône : **C — Lignes de lac**.
+- Kit complet : `logo/kit/` (SVG, PNG, icônes web, `presentation.png`, `GUIDE.md`).
